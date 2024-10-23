@@ -1,0 +1,1 @@
+# Script Streaming de bienvenida
